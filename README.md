@@ -6,7 +6,12 @@
 
 Skills: Machine Learning / Python Programming / Statistical Analysis / SQL  / 
 
-
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,github,python, javascript, express,firebase,mongodb,c, java" /><br>
+<img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css, vscode, figma, git" />
+</a>
+</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akash-212)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akash212//)  
