@@ -8,7 +8,7 @@ Skills: Machine Learning / Python Programming / Statistical Analysis / SQL  /
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,pandas,numpy,machine%20learning,sql,java" /><br>
+   <img src="https://skillicons.dev/icons?i=github,python,sql,java" /><br>
   </a>
 </div>
 
