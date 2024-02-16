@@ -1,4 +1,3 @@
-
 ### Hi there 👋, my name is Akash
 #### Data Analyst | Machine Learning Enthusiast | Java Coder
 ![Data Analyst | Machine Learning Enthusiast | Java Coder](https://media.licdn.com/dms/image/D5616AQFulTVgmfgydA/profile-displaybackgroundimage-shrink_350_1400/0/1708126516116?e=1713398400&v=beta&t=TbAHIn008IghflDAtSh-zIcfpb0EI-HYB4dR-AuCp9A)
@@ -18,19 +17,5 @@ Skills: Machine Learning / Python Programming / Statistical Analysis / SQL  /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-212&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Akash-212/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Akash-212)  
-
-
-
-
-
-
-
-
-
-
-
-
 
