@@ -24,3 +24,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Akash-212)  
 
+<img src="https://raw.githubusercontent.com/Akash-212/Akash-212/output/snake.svg" alt="Snake animation" />
+
+###
