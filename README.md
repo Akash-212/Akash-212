@@ -17,7 +17,11 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Akash-212/count.svg?"  />
+</div>
 
+###
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akash-212)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-212&show_icons=true)  
