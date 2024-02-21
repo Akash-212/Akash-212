@@ -17,16 +17,6 @@
   </a>
 </div>
 
-###
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Akash-212&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-
-
-###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akash-212)](https://github.com/ryo-ma/github-profile-trophy)
 
