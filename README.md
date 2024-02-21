@@ -34,8 +34,6 @@
 </div>
 
 ###
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Akash-212)  
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
