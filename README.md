@@ -13,8 +13,8 @@
 ###
 ###
 <h2 align="left">About me</h2>
-<div style="text-align: center;">
- <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif" style="position: absolute; left: 0;" />
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif"  />
 </div>
 <br clear="both">
 
