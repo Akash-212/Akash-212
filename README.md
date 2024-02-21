@@ -1,24 +1,70 @@
 ### Hi there 👋, my name is Akash
 #### Data Analyst | Machine Learning Enthusiast | Java Coder
-![Data Analyst | Machine Learning Enthusiast | Java Coder](https://media.licdn.com/dms/image/D5616AQFulTVgmfgydA/profile-displaybackgroundimage-shrink_350_1400/0/1708126516116?e=1713398400&v=beta&t=TbAHIn008IghflDAtSh-zIcfpb0EI-HYB4dR-AuCp9A)
+<br clear="both">
 
- I'm Akash Pradhan, a dedicated Data Analyst with a fervent passion for machine learning and a knack for coding in Java. With a Master of Computer Application background, I bring a unique blend of analytical thinking and technical expertise to every project.
+<h1 align="center">Hi there 👋, my name is Akash</h1>
 
-Skills: Machine Learning / Python Programming / Statistical Analysis / SQL  / 
+###
+
+<br clear="both">
 
 <div align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=github,python,sql,java" /><br>
+  <a href="www.linkedin.com/in/akash212" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/akash__pradhan___/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="pradhanbiky098@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
+###
 
+<br clear="both">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akash-212)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akash212//)  
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Akash-212&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/AKASH">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AKASH&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/19pv8fZ9tIcr6Dt_aRzb8cqERgQqXtVra/view?usp=drivesdk"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akash-212)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-212)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-212&show_icons=true)  
 
