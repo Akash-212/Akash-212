@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="center">Hi there 👋, my name is Akash</h1>
+<h1 align="left">Hi there 👋, my name is Akash</h1>
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif"  />
 </div>
