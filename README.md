@@ -36,6 +36,15 @@
 ###
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Akash-212)  
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Akash-212&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Akash-212/Akash-212/output/snake.svg" alt="Snake animation" />
 
