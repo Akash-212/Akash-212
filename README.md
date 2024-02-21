@@ -3,6 +3,15 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif"  />
 </div>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media.tenor.com/LFzVQQtL12UAAAAM/aku-akash.gif"  />
+</div>
+
+###
 
 ###
 <h2 align="left">About me</h2>
