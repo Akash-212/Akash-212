@@ -3,7 +3,15 @@
 <br clear="both">
 
 <h1 align="center">Hi there 👋, my name is Akash</h1>
+<h2 align="left">About me</h2>
 
+###
+
+<br clear="both">
+
+<h4 align="left">😄 Pronouns: He/Him<br>📚 I'm currently learning Ai & Ml<br>🎯 Goals: Seeking career opportunities in Java development and Data Analysis<br>🎲 Fun fact: I enjoy gaming as much as coding</h4>
+
+###
 ###
 
 <br clear="both">
