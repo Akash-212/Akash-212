@@ -1,9 +1,14 @@
 <br clear="both">
 <h1 align="left">Hi there 👋, my name is Akash</h1>
-<div style="text-align: center;">
-  <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif" style="margin-right: -100px;" />
-  <img height="300" src="https://media.licdn.com/dms/image/D4E16AQF-dLeqsb5zUw/profile-displaybackgroundimage-shrink_350_1400/0/1708543966002?e=1714003200&v=beta&t=ER40T-mON2jxUVSSiBO4vq1W9EmLWprXkAstwxh2jGw" />
+<div style="display: flex; justify-content: center;">
+  <div>
+    <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif" />
+  </div>
+  <div style="margin-left: -100px;">
+    <img height="300" src="https://media.licdn.com/dms/image/D4E16AQF-dLeqsb5zUw/profile-displaybackgroundimage-shrink_350_1400/0/1708543966002?e=1714003200&v=beta&t=ER40T-mON2jxUVSSiBO4vq1W9EmLWprXkAstwxh2jGw" />
+  </div>
 </div>
+
 
 
 
