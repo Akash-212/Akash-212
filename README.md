@@ -1,4 +1,3 @@
-#### Data Analyst | Machine Learning Enthusiast | Java Coder
 <br clear="both">
 <h1 align="center">Hi there 👋, my name is Akash</h1>
 <h2 align="left">About me</h2>
