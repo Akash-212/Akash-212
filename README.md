@@ -3,7 +3,13 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif"  />
 </div>
+<br clear="both">
 
+<div align="center">
+  <img height="300" src="https://media.licdn.com/dms/image/D4E16AQF-dLeqsb5zUw/profile-displaybackgroundimage-shrink_350_1400/0/1708543966002?e=1714003200&v=beta&t=ER40T-mON2jxUVSSiBO4vq1W9EmLWprXkAstwxh2jGw"  />
+</div>
+
+###
 ###
 <h2 align="left">About me</h2>
 
