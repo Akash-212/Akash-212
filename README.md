@@ -13,7 +13,9 @@
 ###
 ###
 <h2 align="left">About me</h2>
-
+<div style="text-align: center;">
+ <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif" style="position: absolute; left: 0;" />
+</div>
 <br clear="both">
 
 <h4 align="left">😄 Pronouns: He/Him<br>📚 I'm currently learning Ai & Ml<br>🎯 Goals: Seeking career opportunities in Java development and Data Analysis<br>🎲 Fun fact: I enjoy gaming as much as coding</h4>
