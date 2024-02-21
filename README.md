@@ -1,5 +1,10 @@
 <br clear="both">
 <h1 align="center">Hi there 👋, my name is Akash</h1>
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/GeEmUJ_g3qIAAAAC/akash.gif"  />
+</div>
+
+###
 <h2 align="left">About me</h2>
 
 <br clear="both">
